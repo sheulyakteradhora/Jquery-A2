@@ -1,0 +1,14 @@
+h3{
+	text-align: center;
+    background-color:gray;
+    color: #eee1c1;
+	margin: 0 auto;
+	border: 3px solid gray;
+	margin-top: 10px;
+	margin-bottom:0px;
+	border-top-left-radius: 50px;
+	border-top-right-radius: 50px; 
+	border-bottom-right-radius: 50px;
+	border-bottom-left-radius: 50px;
+	padding: 5px 0;
+}
